@@ -1,0 +1,2 @@
+ SELECT
+  levenshtein('Postgres','Kostgres')
